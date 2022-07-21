@@ -1,2 +1,7 @@
-# Blender-Alien-Pink-theme
-![o7iobeBzeBo-00-10-26](https://user-images.githubusercontent.com/64172068/180174232-9ce2b976-a3a8-4adf-857e-6869d9519b2b.png)
+# Alien Pink 👽🌸 - Blender theme
+
+If you're a fan a colourful themes, you're in for a treat!
+
+Big thanks to [Miguel Pozo](https://github.com/pragma37) for making a [Theme Editor addon](https://app.gumroad.com/d/bd203ea14e1e159c47c00ecd11e2707f) which makes editing themes way more bearable 🙏
+
+I'll add more documentation later, just download the latest version of the theme and you're good to go :)
