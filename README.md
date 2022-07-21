@@ -6,16 +6,19 @@ Big thanks to [Miguel Pozo](https://github.com/pragma37) for making a [Theme Edi
 
 I'll add more documentation later, just download the latest version of the theme and you're good to go :)
 
+![image](https://user-images.githubusercontent.com/64172068/180186273-3b582c7f-4306-447d-a1a7-f0eb56f203af.png)
+
 ## Download
 
 Download the latest version of this theme in [Releases](https://github.com/Alumx/Alien-Pink-Blender-theme/releases)
 
 (You only need the .xml file, ignore source code stuff)
 
-## Installation
-### Via Blender
-do the thing
-### Manually
-#### Windows
-do the thing on windoiws
-
+## Update log
+v5 [Release link](https://github.com/Alumx/Alien-Pink-Blender-theme/releases/tag/v5)
+- Movie Clip Editor theme is fully implemented (Aong with Graph and Dopesheet subsections)
+- Video Sequencer theming updated and improved
+- Shader editor and Geometry Nodes now have grid dots!
+- Spreadsheet is now colored
+- Asset Browser is now colored
+- Fixed a couple of spots where tabs weren't following the theme colors
