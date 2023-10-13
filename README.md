@@ -15,6 +15,19 @@ Download the latest version of this theme in [Releases](https://github.com/Alumx
 (You only need the .xml file, ignore source code stuff)
 
 ## Update log
+
+v5.1 [Release link](https://github.com/Alumx/Alien-Pink-Blender-theme/releases/tag/v5.1)
+- Changed bottom header from pink to dark blue (for better readability)
+- Render bar is even *pinker* now
+- NEW Dope sheet is now themed with colors accordingly!
+- NEW Graph Editor is now themed with colors accordingly!
+- NEW NLA editor is now themed with colors accordingly!
+- Changed tool menus background from transparent to opaque (new blender feature, resizable dynamic islands!)
+- Search in Properties is now themed!
+- F3 search is now themed
+- Changed Text Editor text select color from pink to blue (consistent text selection color everywhere else)
+- And a lot of other small tweaks!
+
 v5 [Release link](https://github.com/Alumx/Alien-Pink-Blender-theme/releases/tag/v5)
 - Movie Clip Editor theme is fully implemented (Aong with Graph and Dopesheet subsections)
 - Video Sequencer theming updated and improved
