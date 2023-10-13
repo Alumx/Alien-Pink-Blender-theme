@@ -6,7 +6,7 @@ Big thanks to [Miguel Pozo](https://github.com/pragma37) for making a [Theme Edi
 
 I'll add more documentation later, just download the latest version of the theme and you're good to go :)
 
-![image](https://user-images.githubusercontent.com/64172068/180186273-3b582c7f-4306-447d-a1a7-f0eb56f203af.png)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/64172068/274916790-62689cf3-e959-42b3-af2a-08023115d046.png)
 
 ## Download
 
