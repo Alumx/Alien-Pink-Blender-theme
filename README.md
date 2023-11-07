@@ -16,6 +16,10 @@ Download the latest version of this theme in [Releases](https://github.com/Alumx
 
 ## Update log
 
+
+v5.2 [Release link](https://github.com/Alumx/Alien-Pink-Blender-theme/releases/tag/v5.2)
+- Changed mesh selection from yellow to orange (unintended change)
+  
 v5.1 [Release link](https://github.com/Alumx/Alien-Pink-Blender-theme/releases/tag/v5.1)
 - Changed bottom header from pink to dark blue (for better readability)
 - Render bar is even *pinker* now
