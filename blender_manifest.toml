@@ -22,7 +22,7 @@ website = "https://github.com/Alumx/Alien-Pink-Blender-theme"
 
 # Optional list defined by Blender and server, see:
 # https://docs.blender.org/manual/en/dev/extensions/tags.html
-tags = ["Animation", "Sequencer"]
+tags = ["Dark"]
 
 blender_version_min = "4.2.0"
 # Optional: maximum supported Blender version
@@ -35,6 +35,5 @@ license = [
 ]
 # Optional: required by some licenses.
 copyright = [
-  "2002-2024 Developer Name",
-  "1998 Company Name",
+  "2002-2024 Alumx",
 ]
