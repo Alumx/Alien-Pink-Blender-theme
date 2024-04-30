@@ -6,7 +6,8 @@ Big thanks to [Miguel Pozo](https://github.com/pragma37) for making a [Theme Edi
 
 I'll add more documentation later, just download the latest version of the theme and you're good to go :)
 
-![image](https://github-production-user-asset-6210df.s3.amazonaws.com/64172068/274916790-62689cf3-e959-42b3-af2a-08023115d046.png)
+
+![alien pink v5 3](https://github.com/Alumx/Alien-Pink-Blender-theme/assets/64172068/c8087b9c-d1a3-4460-9c23-3d8745ef1621)
 
 ## Download
 
