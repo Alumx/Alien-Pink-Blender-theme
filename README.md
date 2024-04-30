@@ -16,6 +16,9 @@ Download the latest version of this theme in [Releases](https://github.com/Alumx
 
 ## Update log
 
+v5.3  [Release link](https://github.com/Alumx/Alien-Pink-Blender-theme/releases/tag/v5.3)
+- Small tweaks to keep things up to date with latest blender (4.2 alpha)
+- added blender_manifest.toml to make this theme available on experimental blender [extensions page]([url](https://extensions.blender.org/themes/))
 
 v5.2 [Release link](https://github.com/Alumx/Alien-Pink-Blender-theme/releases/tag/v5.2)
 - Changed mesh selection from yellow to orange (unintended change)
