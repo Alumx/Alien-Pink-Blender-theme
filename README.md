@@ -8,7 +8,7 @@ Big thanks to [Miguel Pozo](https://github.com/pragma37) for making a [Theme Edi
 
 I'll add more documentation later, just download the latest version of the theme and you're good to go :)
 
-![img](/images/ALIEN PINK V6.jpg)
+![image](images/alien_pink_v6.jpg)
 
 ## Download
 
